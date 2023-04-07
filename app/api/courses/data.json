@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "description": "A JavaScript library for building user interfaces",
+    "url": "https://facebook.github.io/react/",
+    "level": "beginner"
+  },
+  {
+    "id": 2,
+    "title": "Redux",
+    "description": "A predictable state container for JavaScript apps",
+    "url": "http://redux.js.org/",
+    "level": "beginner"
+  },
+  {
+    "id": 3,
+    "title": "React Router",
+    "description": "Declarative routing for React",
+    "url": "https://reacttraining.com/react-router/",
+    "level": "beginner"
+  },
+  {
+    "id": 4,
+    "title": "Webpack",
+    "description": "A bundler for javascript and friends",
+    "url": "https://webpack.js.org/",
+    "level": "beginner"
+  }
+]
